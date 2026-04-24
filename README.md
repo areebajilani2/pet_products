@@ -1,4 +1,3 @@
-Pet-Products
 
 A modern web app to help users browse, search, and purchase pet supplies from a curated catalog.
 Pet-Products allows users to:
@@ -40,3 +39,4 @@ Setup
 4. Start the development server:
    npm run dev
 5. Navigate to http://localhost:5000 (or your frontend port if separate) to view the app.   
+
